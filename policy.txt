@@ -1,5 +1,5 @@
 working with the HBS policies
 policies history
 user history
-eligibility
+eligility
 policies applicable category
