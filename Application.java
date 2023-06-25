@@ -19,13 +19,6 @@ class Main {
     System.out.println("Sum is: " + result);
   }
 #feature202 changes made by Developer Shaik on 23-March-2022
-public class Main {
-
-  // method defined
-  private static int getSquare(int x){
-    return x * x;
-  }
-
   public static void main(String[] args) {
     for (int i = 1; i <= 5; i++) {
 
