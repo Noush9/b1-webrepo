@@ -3,3 +3,8 @@ policies history
 user history
 eligibility
 policies applicable category
+
+New Modifications
+User Eligibility
+Category
+User Reports
