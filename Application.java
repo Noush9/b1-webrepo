@@ -26,6 +26,13 @@ class Main {
       int result = getSquare(i);
       System.out.println("Square of " + i + " is: " + result);
     }
+
+#feature201 changes by Developer Maria on 23-Mar-2022
+public class Main {
+  public static void main(String[] args) {
+    
+    // using the sqrt() method
+    System.out.print("Square root of 4 is: " + Math.sqrt(4));
   }
 }
 }
